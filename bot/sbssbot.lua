@@ -341,7 +341,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+RSMBOT THE BEST BOT IN THE TELEGRM SUDO:@sorblack
 ]]
   }
   serialize_to_file(config, './data/config.lua')
