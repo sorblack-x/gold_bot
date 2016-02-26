@@ -239,29 +239,31 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {134843111,171481453,177500661,150575718,93365812},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V2 Beta
+    about_text = [[RSMBot V8 
     An Advanced Anti Spam Bot Forked On TeleSeed
     
-    Develpoed By:
-    @Mr_Ah_S
+    Develpoed and sudo:
+    @sorblack
     Manager:
-    @amiirdada
+    @sorblack_1
+    @HaNgHeR_YaGhI
+    @sorbalck
     Founder:
-    @AmirQuick
+    @mohammad20162015
     
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
+    ARSALAN
+    AMIR
+    BEHROZ
+    Blackwolf_admin
     
-    Powered By @Sbss_Team
+    Powered By @RSM_BOT
     
-    #Open Source
-    https://github.com/SbssTeam/Sbss
+    PHOTO BOT:
+    https://www.instagram.com/p/BB25RCus5ab/
 ]],
     help_text_realm = [[
 See Patterns In Github
